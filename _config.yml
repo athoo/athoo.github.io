@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            David's page
 locale:           en_US
-url:              http://localhost:4000
+url:              http://athoo.github.io
 
 
 # Jekyll configuration
