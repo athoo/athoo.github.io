@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A blog."
+tags: []
 image:
   feature: one.png
   <!-- credit: Texture Lovers -->
