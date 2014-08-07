@@ -1,6 +1,10 @@
-###python
-
-<!-- create time: 2014-07-24 22:40:47  -->
+---
+layout: post
+title: Python notes
+excerpt: "study and write python."
+tags: [python, code]
+comments: true
+---
 
 ###读写文件的一些操作
 
