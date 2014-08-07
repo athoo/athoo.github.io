@@ -1,3 +1,11 @@
+---
+layout: post
+title: "study foreign language"
+excerpt: "Tips from a video I forgot the name."
+tags: [language]
+comments: true
+---
+
 ##The five principles
 
 1. Focus on language content that is relevant to you

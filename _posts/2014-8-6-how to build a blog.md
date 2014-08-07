@@ -1,48 +1,56 @@
+---
+layout: post
+title: "Start my blog"
+excerpt: "jekyll-based blog building."
+tags: [jekyll, github]
+comments: true
+---
+
 #The step-by-step tutorial to create the blog
 
-__建立工作文档__
+**建立工作文档**
 
 	mkdir project_name
 	
-__进入文件夹并对目录初始化__
+**进入文件夹并对目录初始化**
 
 	cd project_name
 	git init
 	
-__创建一个没有父节点的分支gh-pages该分支中的页面将会生成网页文件__
+**创建一个没有父节点的分支gh-pages该分支中的页面将会生成网页文件**
 	
 	git checkout --orphan gh-pages
 	
-__创建设置文件__
+**创建设置文件**
 
 根目录下建立_config.yml，这个是jekyll的设置配置文件
 
 	baseurl: /project_name
 	
-__创建模板文件__
+**创建模板文件**
 
 在根目录下创建_layouts文件夹，用来放置模板文件
 
-__在_layouts文件夹中创建模板文件__
+**在_layouts文件夹中创建模板文件**
 
 创建default.html文件，作为blog的默认模板
 
-__在project根目录中创建一个_posts目录，用来存放blog文章__
+**在project根目录中创建一个_posts目录，用来存放blog文章**
 
 	mkdir _posts
 	
-__在_posts文件夹中写文章，html或者是markdown都可以__
+**在_posts文件夹中写文章，html或者是markdown都可以**
 
 	文章头部必须要有一个yaml文件头，设置元数据，三根短线开头---，---结尾
 	包括 layout: default
 	title: #网页的头显示
 	同时，文件必须符合年-月-日-文件名.文件后缀名
 
-__在根目录里需要创建一个index.html或者是md文件__
+**在根目录里需要创建一个index.html或者是md文件**
 	
 	其中需要放置yaml文件头信息
 	
-__发布内容__
+**发布内容**
 
 在根目录下
  
@@ -54,7 +62,7 @@ __发布内容__
 	git remote add alias https://github.com/username/project_name.git
 	git push alias gh-pages
 	
-__目录文件的参考模板__
+**目录文件的参考模板**
 
 
 	　　---
@@ -69,7 +77,7 @@ __目录文件的参考模板__
 	　　　　{% endfor %}
 	　　</ul>
 	　　
-__ _post中文章的参考模板 __
+** _post中文章的参考模板 **
 
 	　　---
 	　　layout: default
@@ -80,7 +88,7 @@ __ _post中文章的参考模板 __
 	　　<p>{{ page.date | date_to_string }}</p>
 
 
-__blog的参考默认模板__
+**blog的参考默认模板**
 
 
 	　　<!DOCTYPE html>
@@ -123,6 +131,8 @@ __blog的参考默认模板__
 
 	git remote show origin
 　　
+
+references:
 
 <http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/>
 
