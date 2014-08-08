@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 文本特征提取技术
+title: Text Similarity
 excerpt: "A note in several natural language processing methods"
 modified: 2014-8-8
 tags: [LSA, VSM]
