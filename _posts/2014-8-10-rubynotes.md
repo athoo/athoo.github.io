@@ -1,3 +1,12 @@
+---
+layout: post
+title: "rubystudy
+excerpt: "help learn ruby"
+tags: [others]
+comments: true
+---
+
+
 ##RUBY notes
 
 ### generally used function
