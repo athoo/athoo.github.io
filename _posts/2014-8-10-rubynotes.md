@@ -142,4 +142,51 @@ class name <父类别名
 
 - attr_accessor :name
 
-- 外部存取class中的常数 classname::variable
+- 外部存取class中的常数 classname  ::  variable
+
+
+### module 
+
+	module MyModule
+	...
+	end
+	
+	class Myclass1
+		include MyModule
+		...
+	end
+	
+	...
+	
+	when define the module, we should add module_dunction :function_name after finishing definition of the specific module methods in the module
+	
+	
+### Error and Exception
+
+understanding the meaning of the exception throwout
+
+	eg: test.rb:2:in 'open':No such file or directory - "no/file"(Errno::ENOENT)
+		from test.rb:2:in 'foo'
+		...
+	format explanation: Filename:line_number : in 'method_name': error information (exception type)
+		from the place calling the method
+		
+		
+	The way ruby manage the error
+	
+	begin
+		possible action incuring the exception
+	rescue => ex
+		what to do when exception appears
+	ensure (thatever the exception appears the action must be done)
+	end
+	
+	variable of teh exception
+	$!
+	$@
+	their methods
+	class message backtrace
+	
+	incur the exception 
+	raise xxx
+	
