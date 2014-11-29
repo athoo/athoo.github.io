@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-##RUBY notes
+##Ruby notes
 
 ### generally used function
 
@@ -189,4 +189,37 @@ understanding the meaning of the exception throwout
 	
 	incur the exception 
 	raise xxx
+
+#ruby note
+
+	"#{}"
+
+	print
+	puts
+	
+	upcase
+	downcase
+	reverse
+	!
+	?
+	..#include the end
+	...#not include the end 
+	.each do |placehold|{}
+	
+	until
+	unless
+	elsif
+	
+	<=> 比较前后两个数字的大小从而得到哪个更加大和哪个更加小的结果比较
+	
+	""
+	:物件名表示对物件而非物件内容的指称
+	
+	.object_id
+	
+	to_sym 与intern一样
+	
+	可以采用python dictionary的方式定义这里的hash
+	
+	
 	

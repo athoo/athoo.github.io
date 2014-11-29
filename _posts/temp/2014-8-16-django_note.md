@@ -23,3 +23,7 @@
 	views中的method，有用的函数，request.GET.get("key_name","default_value")#常用的根据url的表现形态做parsing以及收集获取数据资料的方式，相对应POST在更复杂的需求下使用
 	render(request,"template",value_passed_to_the_template(often a dictionary name))
 	而在template中需要对待换的地方传入dictionary的key的名字，帮助查询工作的完成
+	
+###lesson 2
+
+	用?variable = value 的方式在url中传入get method的值
