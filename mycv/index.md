@@ -31,6 +31,8 @@ B.A., Philosophy
 
 GPA: 3.21/4.00
 
+---
+
 #### Research Experience:
 
 2013.9-
@@ -40,7 +42,7 @@ Research Assistant in Collaborative & Social Computing Lab, National Tsing Hua U
 - Best Interactive Design in 2014 Taiwan OpenHCI Workshop.(Emotional Watch)
 - Web-based empirical study on the Mechanism of Rumors Diffusion
 
-	**Supervisor**: Hao-Chuan Wang
+**Supervisor**: Hao-Chuan Wang
 
 2012.2-2013.6
 Undergraduate Assistant in Soft Matter and Interdisciplinary Research Group, Fudan University
@@ -49,7 +51,7 @@ Undergraduate Assistant in Soft Matter and Interdisciplinary Research Group, Fud
 - Giving presentation “The quantitative application of Entropy theory in a complex Adaptive system” at Physics academic conference for the University students from mainland China and Taiwan. (Best award)
 - Finish the project "Appying Stat-Physics(a variation of stochastic distribution) on Analyzing Herd Behavior" with Matlab
 
-	**Supervisor**: Ji-Ping Huang
+**Supervisor**: Ji-Ping Huang
 
 2012.4-2013.4
 XiYuan Scholar in Fudan's Undergraduate Research Opportunities Program (FDUROP), Fudan University
@@ -57,11 +59,15 @@ XiYuan Scholar in Fudan's Undergraduate Research Opportunities Program (FDUROP),
 - Independent researcher on the development of the Quantun Physics Effects--Black body display technology
 - Design the circuit and the equipment, using Arduino and Labview in realizing the system
 
-	**Supervior**: Shi-Hong Ma
+**Supervior**: Shi-Hong Ma
+
+---
 
 #### Publication:
 
 __Yang P-J__, & Ma S-H. Investigation on combined black-body radiation facility. Physics Experimentation, 2013-2-20
+
+---
 
 #### Honors and Awards
 
@@ -72,7 +78,8 @@ __Yang P-J__, & Ma S-H. Investigation on combined black-body radiation facility.
 - 2012-2013 Second Prize of the Scholarship for Outstanding Students (10%)
 
 - 2009-2011 Third Prize of the Scholarship for Outstanding Students (20%)
- 
+
+--- 
 
 #### Skills and Qualifications:
 
@@ -82,6 +89,7 @@ __Yang P-J__, & Ma S-H. Investigation on combined black-body radiation facility.
 
 - **Toefl ibt**: 100/120
 
+---
 
 <center><b>Address</b>: National Tsing Hua University, Room No. C409 Dorm. Ching 1st Dorm. Service Center
 No.101, Sec. 2, Kuang-Fu Rd.
