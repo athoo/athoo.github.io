@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: David Yang
 excerpt: "A brief introduction of myself."
 tags: [introduction]
@@ -10,7 +10,7 @@ comments: false
 
 ### Education
 
-	National Tsing Hua University
+National Tsing Hua University
 
 M.S., Computer Science
 (Sept. 2013- )
