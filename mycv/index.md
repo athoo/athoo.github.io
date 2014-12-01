@@ -16,8 +16,6 @@ National Tsing Hua University
 M.S., Computer Science
 (Sept. 2013- )
 
-GPA:3.97/4.30
-
 Fudan University
 
 B.S., Physics
@@ -28,8 +26,6 @@ B.S., Accounting
 
 B.A., Philosophy 
 (Sept. 2008-June 2010)
-
-GPA: 3.21/4.00
 
 ---
 
