@@ -1,3 +1,11 @@
+---
+layout: page
+title: About me
+modified: 2014-11-30
+excerpt: "A brief introduction of myself."
+---
+
+
 ##<font style="font-family:Times New Roman"><center>Ping-Jing Yang.</center>
 
 <center><b>Address</b>: National Tsing Hua University, Room No. C409 Dorm. Ching 1st Dorm. Service Center
