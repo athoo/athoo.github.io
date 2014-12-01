@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: David Yang
 excerpt: "A brief introduction of myself."
 tags: [introduction]
