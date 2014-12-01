@@ -10,12 +10,13 @@ comments: trues
 
 ### Education
 
+
 National Tsing Hua University
 
 M.S., Computer Science
 (Sept. 2013- )
 
-**GPA**:3.97/4.30
+GPA:3.97/4.30
 
 Fudan University
 
@@ -28,9 +29,10 @@ B.S., Accounting
 B.A., Philosophy 
 (Sept. 2008-June 2010)
 
-**GPA**: 3.21/4.00
+GPA: 3.21/4.00
 
 ---
+
 ### Academic Background
 
 #### Related courses-taken
