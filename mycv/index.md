@@ -3,7 +3,7 @@ layout: page
 title: David Yang
 excerpt: "A brief introduction of myself."
 tags: [introduction]
-comments: trues
+comments: false
 ---
 
 >> Never stop __Thinking__
