@@ -31,16 +31,6 @@ B.A., Philosophy
 
 GPA: 3.21/4.00
 
----
-
-### Academic Background
-
-#### Related courses-taken
-
- Artificial Intelligent	A+
-/ Interaction Design	A+
-/ Social Computing	A+
-
 #### Research Experience:
 
 2013.9-
@@ -92,12 +82,9 @@ __Yang P-J__, & Ma S-H. Investigation on combined black-body radiation facility.
 
 **Toefl ibt**: 100/120
 
----
 
 <center><b>Address</b>: National Tsing Hua University, Room No. C409 Dorm. Ching 1st Dorm. Service Center
 No.101, Sec. 2, Kuang-Fu Rd.
 Hsinchu City, 30013, Taiwan</center>
 
 <center><b>Email</b>: pingjing.yang@gmail.com <b>Telephone</b>: +886-0988437589</center>
-
----
