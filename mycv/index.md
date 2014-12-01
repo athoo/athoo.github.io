@@ -6,7 +6,7 @@ tags: [introduction]
 comments: trues
 ---
 
-> Never stop __Thinking__
+>> Never stop __Thinking__
 
 ### Education
 
@@ -65,22 +65,22 @@ __Yang P-J__, & Ma S-H. Investigation on combined black-body radiation facility.
 
 #### Honors and Awards
 
-2013.10- Foxconn Elite Scholarship for Graduate School Students
+- 2013.10- Foxconn Elite Scholarship for Graduate School Students
 
-2013.6 Honor Graduate in Fudan University (3%)
+- 2013.6 Honor Graduate in Fudan University (3%)
 
-2012-2013 Second Prize of the Scholarship for Outstanding Students (10%)
+- 2012-2013 Second Prize of the Scholarship for Outstanding Students (10%)
 
-2009-2011 Third Prize of the Scholarship for Outstanding Students (20%)
+- 2009-2011 Third Prize of the Scholarship for Outstanding Students (20%)
  
 
 #### Skills and Qualifications:
 
-**Coding**: Python, C/C++, R, Matlab, CSS/HTML, Javascript, Ruby
+- **Coding**: Python, C/C++, R, Matlab, CSS/HTML, Javascript, Ruby
 
-**Developing experience**: Processing, Arduino
+- **Developing experience**: Processing, Arduino
 
-**Toefl ibt**: 100/120
+- **Toefl ibt**: 100/120
 
 
 <center><b>Address</b>: National Tsing Hua University, Room No. C409 Dorm. Ching 1st Dorm. Service Center
