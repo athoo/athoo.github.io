@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-modified: 2014-11-30
 excerpt: "A brief introduction of myself."
+tags: [introduction]
+comments: trues
 ---
 
 
@@ -17,6 +18,7 @@ Hsinchu City, 30013, Taiwan</center>
 <center><b>Objective</b>: Intern Position in Microsoft Research Asia(Web Search and Mining Group)</center>
 
 ---
+
 ### Education
 
 National Tsing Hua University
