@@ -10,7 +10,6 @@ comments: false
 
 ### Education
 
-
 National Tsing Hua University
 
 M.S., Computer Science
